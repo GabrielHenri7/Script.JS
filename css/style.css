@@ -1,0 +1,17 @@
+.formulario{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+fieldset{
+    width: 250px;
+    border: 2px solid black;
+}
+
+.bot{
+    display: inline;
+    
+
+}
